@@ -1,5 +1,8 @@
 global class CredentialVerificationService {
-
+    /*
+     * @param lastName: The last name of the contact for which the credential needs to be verified.
+     * @param certificationName: The name of the certification to verify for the given contact.
+     */
     webService static String verifyCredential(String lastName, String certificationName) {
         String response = 'No record found';
 
