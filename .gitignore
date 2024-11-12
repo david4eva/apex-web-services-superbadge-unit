@@ -1,0 +1,15 @@
+# Ignore illuminated cloud files
+IlluminatedCloud/
+Platform_API_SB.iml
+.idea
+
+# Ignore lwc folder
+src/lwc/
+
+# Ignore specified apex classes
+src/classes/Account_Service.cls
+src/classes/DisconnectRelatedAssets.cls
+src/classes/PilotRatingBatch.cls
+
+# Ignore all .cls-meta.xml files
+src/classes/*.cls-meta.xml
