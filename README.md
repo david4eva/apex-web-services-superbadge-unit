@@ -20,4 +20,4 @@ This project involved the development of custom APIs using Apex, focusing on bot
 This superbadge, showcased my proficiency in developing, testing, and deploying web services in Salesforce, to handle real-world integration scenarios.
 
 ---
-For more details on Salesforce Superbadges, visit the [Salesforce Trailhead]([https://trailhead.salesforce.com](https://trailhead.salesforce.com/content/learn/superbadges/superbadge-custom-api-sbu)) website.
+For more details on Salesforce Superbadges, visit the [Salesforce Trailhead]([https://trailhead.salesforce.com] (https://trailhead.salesforce.com/content/learn/superbadges/superbadge-custom-api-sbu)) website.
